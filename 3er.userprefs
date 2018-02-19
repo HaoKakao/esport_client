@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TestSpeech.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controller.cs" Line="57" Column="3" />
+      <File FileName="Assets\Scripts\ButtonLogin.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChatController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DontDestroyOnLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChatClass.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ClientScripts.cs" Line="1" Column="1" />
+      <File FileName="Assets\SocketIO\Readme.txt" Line="1" Column="1" />
+      <File FileName="Assets\unity-ui-extensions\Scripts\UIWindowBase.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Borderless.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Winform_Moveable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WinForm_Outside_Window.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TestSpeech.cs" Line="14" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
